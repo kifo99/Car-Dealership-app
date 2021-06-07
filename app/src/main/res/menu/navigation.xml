@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_oglasi"
+        android:icon="@drawable/ic_reorder_24px"
+        android:title="@string/prikazOglasa"
+        />
+
+    <item
+        android:id="@+id/navigation_dodaj_oglas"
+        android:icon="@drawable/ic_add_box_24px"
+        android:title="@string/dodajOglas"
+        />
+
+
+</menu>

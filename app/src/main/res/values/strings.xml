@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto Oglas</string>
+    <string name="dodajOglas">Dodajte oglas!</string>
+    <string name="prikazOglasa">Oglasi</string>
+</resources>
